@@ -1,0 +1,29 @@
+# Build
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE
+.vscode/
+.idea/
+.vs/
+*.sln
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cocos Specific
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win32/
+library/
+temp/
+
+# Dependencies
+node_modules/
+cocos2d/

@@ -1,0 +1,1 @@
+export const db = "mongodb+srv://dhruv:dhruv@cluster0.6pzod.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"

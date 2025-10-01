@@ -1,0 +1,81 @@
+{
+  "levels": [
+    {
+      "level_number": 1,
+      "player_start": { "x": 160, "y": 450 },
+      "stand_position": { "x": 160, "y": 350 },
+      "coins": [
+        { "x": 300, "y": 300 },
+        { "x": 350, "y": 300 },
+        { "x": 400, "y": 300 },
+        { "x": 450, "y": 300 },
+        { "x": 500, "y": 300 },
+        { "x": 550, "y": 300 },
+        { "x": 600, "y": 300 }
+      ],
+      "obstacles": [
+        { "type": "ground", "x": 640, "y": 50, "width": 1280, "height": 230 }
+      ]
+    },
+    {
+      "level_number": 2,
+      "player_start": { "x": 100, "y": 250 },
+      "stand_position": { "x": 100, "y": 200 },
+      "coins": [
+        { "x": 300, "y": 200 },
+        { "x": 500, "y": 350 },
+        { "x": 700, "y": 200 },
+        { "x": 900, "y": 350 }
+      ],
+      "obstacles": [
+        { "type": "ground", "x": 640, "y": 50, "width": 1280, "height": 100 },
+        { "type": "floating_platform", "x": 600, "y": 275, "width": 200, "height": 40 }
+      ]
+    },
+    {
+      "level_number": 3,
+      "player_start": { "x": 100, "y": 250 },
+      "stand_position": { "x": 100, "y": 200 },
+      "coins": [
+        { "x": 660, "y": 290 },
+        { "x": 610, "y": 230 },
+        { "x": 690, "y": 390 },
+        { "x": 640, "y": 385 }
+      ],
+      "obstacles": [
+        { "type": "ground", "x": 640, "y": 50, "width": 1280, "height": 100 },
+        { "type": "floating_platform", "x": 600, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 620, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 630, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 640, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 650, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 660, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 670, "y": 275, "width": 200, "height": 40 }
+      ]
+    },
+     {
+      "level_number": 3,
+      "player_start": { "x": 100, "y": 250 },
+      "stand_position": { "x": 100, "y": 200 },
+      "coins": [
+        { "x": 660, "y": 290 },
+        { "x": 610, "y": 230 },
+        { "x": 690, "y": 390 },
+        { "x": 640, "y": 385 }
+      ],
+      "obstacles": [
+        { "type": "ground", "x": 640, "y": 50, "width": 1280, "height": 100 },
+        { "type": "floating_platform", "x": 600, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 620, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 630, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 640, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 650, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 660, "y": 275, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 600, "y": 265, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 600, "y": 245, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 600, "y": 225, "width": 200, "height": 40 },
+        { "type": "floating_platform", "x": 600, "y": 200, "width": 200, "height": 40 }
+      ]
+    }
+  ]
+}
